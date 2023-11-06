@@ -1,0 +1,21 @@
+program test
+
+	int a[];
+	bool b;
+{
+    void main() {
+       
+		a=new int[5];
+		a[0]=-3;
+		a[1]=-21;
+		a[2]=4;
+		a[3]=7;
+		a[4]=15;
+		
+		b=a.findAny(-3);
+		
+		print(b);
+
+    }
+    
+}

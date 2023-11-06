@@ -1,0 +1,22 @@
+program testt
+	bool c;
+	const int f=5;
+	const bool g=true;
+	const char h='c';
+{
+    void main()int e[]; int a,eee+,ttt,+dddd;  int dd[]; int cc[]; {
+       
+        print(f);
+        print(g);
+        print(h);
+        
+      //  e=new int[3]]];
+        dd=new int[3];
+        cc=new int[3];
+        
+        e[2]=3;
+       // c=true;_+('
+        a=f;
+    }
+    
+}

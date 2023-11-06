@@ -1,0 +1,335 @@
+INFO  03:40:07,702 - Compiling source file: C:\Users\kamen\Desktop\PP1PROJEKAT-20230814T132802Z-001\PP1PROJEKAT\workspace\Proj\test\program.mj
+INFO  03:40:07,746 - #2 program
+INFO  03:40:07,747 - #46 test
+INFO  03:40:07,747 - #46 int
+INFO  03:40:07,749 - #46 a
+INFO  03:40:07,751 - #9 [
+INFO  03:40:07,751 - #10 ]
+INFO  03:40:07,751 - #6 ;
+INFO  03:40:07,751 - #46 bool
+INFO  03:40:07,752 - #46 b
+INFO  03:40:07,752 - #6 ;
+INFO  03:40:07,753 - #3 {
+INFO  03:40:07,753 - #15 void
+INFO  03:40:07,754 - #46 main
+INFO  03:40:07,754 - #13 (
+INFO  03:40:07,755 - #14 )
+INFO  03:40:07,756 - #3 {
+INFO  03:40:07,757 - #46 a
+INFO  03:40:07,758 - #8 =
+INFO  03:40:07,759 - #32 new
+INFO  03:40:07,760 - #46 int
+INFO  03:40:07,760 - #9 [
+INFO  03:40:07,760 - #45 5
+INFO  03:40:07,761 - #10 ]
+INFO  03:40:07,761 - #6 ;
+INFO  03:40:07,761 - #46 a
+INFO  03:40:07,762 - #9 [
+INFO  03:40:07,762 - #45 0
+INFO  03:40:07,762 - #10 ]
+INFO  03:40:07,763 - #8 =
+INFO  03:40:07,763 - #27 -
+INFO  03:40:07,763 - #45 3
+INFO  03:40:07,763 - #6 ;
+INFO  03:40:07,764 - #46 a
+INFO  03:40:07,764 - #9 [
+INFO  03:40:07,764 - #45 1
+INFO  03:40:07,764 - #10 ]
+INFO  03:40:07,764 - #8 =
+INFO  03:40:07,765 - #27 -
+INFO  03:40:07,765 - #45 21
+INFO  03:40:07,765 - #6 ;
+INFO  03:40:07,766 - #46 a
+INFO  03:40:07,766 - #9 [
+INFO  03:40:07,766 - #45 2
+INFO  03:40:07,766 - #10 ]
+INFO  03:40:07,766 - #8 =
+INFO  03:40:07,766 - #45 4
+INFO  03:40:07,767 - #6 ;
+INFO  03:40:07,767 - #46 a
+INFO  03:40:07,767 - #9 [
+INFO  03:40:07,767 - #45 3
+INFO  03:40:07,768 - #10 ]
+INFO  03:40:07,768 - #8 =
+INFO  03:40:07,768 - #45 7
+INFO  03:40:07,768 - #6 ;
+INFO  03:40:07,768 - #46 a
+INFO  03:40:07,769 - #9 [
+INFO  03:40:07,769 - #45 4
+INFO  03:40:07,769 - #10 ]
+INFO  03:40:07,769 - #8 =
+INFO  03:40:07,769 - #45 15
+INFO  03:40:07,769 - #6 ;
+INFO  03:40:07,769 - #46 b
+INFO  03:40:07,769 - #8 =
+INFO  03:40:07,770 - #46 a
+INFO  03:40:07,770 - #26 .
+INFO  03:40:07,770 - #44 findAny
+INFO  03:40:07,770 - #13 (
+INFO  03:40:07,770 - #27 -
+INFO  03:40:07,770 - #45 3
+INFO  03:40:07,770 - #14 )
+INFO  03:40:07,771 - #6 ;
+INFO  03:40:07,771 - #23 print
+INFO  03:40:07,771 - #13 (
+INFO  03:40:07,771 - #46 b
+INFO  03:40:07,771 - #14 )
+INFO  03:40:07,771 - #6 ;
+INFO  03:40:07,772 - #4 }
+INFO  03:40:07,772 - #4 }
+INFO  03:40:07,783 - Program(
+  ProgName(
+   test
+  ) [ProgName]
+  Declarations(
+    Declarations(
+      NoDeclarations(
+      ) [NoDeclarations]
+      VarDeclaration(
+        VarDecla(
+          Type(
+           int
+          ) [Type]
+          SingleVar(
+            VarIdArray(
+             a
+            ) [VarIdArray]
+          ) [SingleVar]
+        ) [VarDecla]
+      ) [VarDeclaration]
+    ) [Declarations]
+    VarDeclaration(
+      VarDecla(
+        Type(
+         bool
+        ) [Type]
+        SingleVar(
+          VarId(
+           b
+          ) [VarId]
+        ) [SingleVar]
+      ) [VarDecla]
+    ) [VarDeclaration]
+  ) [Declarations]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDecl(
+      RtrnTypVoid(
+       main
+      ) [RtrnTypVoid]
+      NoFrmPrs(
+      ) [NoFrmPrs]
+      NoVarDeclarations(
+      ) [NoVarDeclarations]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    Statements(
+                      NoStatements(
+                      ) [NoStatements]
+                      DesStatement(
+                        DesignatorStatementAopExpr(
+                          DesignatorSingle(
+                           a
+                          ) [DesignatorSingle]
+                          Assignop(
+                          ) [Assignop]
+                          ExprSingle(
+                            TermSingle(
+                              FactorNewArray(
+                                Type(
+                                 int
+                                ) [Type]
+                                ExprSingle(
+                                  TermSingle(
+                                    FactorNum(
+                                     5
+                                    ) [FactorNum]
+                                  ) [TermSingle]
+                                ) [ExprSingle]
+                              ) [FactorNewArray]
+                            ) [TermSingle]
+                          ) [ExprSingle]
+                        ) [DesignatorStatementAopExpr]
+                      ) [DesStatement]
+                    ) [Statements]
+                    DesStatement(
+                      DesignatorStatementAopExpr(
+                        DesignatorMultiExpr(
+                          DesignatorSingle(
+                           a
+                          ) [DesignatorSingle]
+                          ExprSingle(
+                            TermSingle(
+                              FactorNum(
+                               0
+                              ) [FactorNum]
+                            ) [TermSingle]
+                          ) [ExprSingle]
+                        ) [DesignatorMultiExpr]
+                        Assignop(
+                        ) [Assignop]
+                        ExprSingleMinus(
+                          TermSingle(
+                            FactorNum(
+                             3
+                            ) [FactorNum]
+                          ) [TermSingle]
+                        ) [ExprSingleMinus]
+                      ) [DesignatorStatementAopExpr]
+                    ) [DesStatement]
+                  ) [Statements]
+                  DesStatement(
+                    DesignatorStatementAopExpr(
+                      DesignatorMultiExpr(
+                        DesignatorSingle(
+                         a
+                        ) [DesignatorSingle]
+                        ExprSingle(
+                          TermSingle(
+                            FactorNum(
+                             1
+                            ) [FactorNum]
+                          ) [TermSingle]
+                        ) [ExprSingle]
+                      ) [DesignatorMultiExpr]
+                      Assignop(
+                      ) [Assignop]
+                      ExprSingleMinus(
+                        TermSingle(
+                          FactorNum(
+                           21
+                          ) [FactorNum]
+                        ) [TermSingle]
+                      ) [ExprSingleMinus]
+                    ) [DesignatorStatementAopExpr]
+                  ) [DesStatement]
+                ) [Statements]
+                DesStatement(
+                  DesignatorStatementAopExpr(
+                    DesignatorMultiExpr(
+                      DesignatorSingle(
+                       a
+                      ) [DesignatorSingle]
+                      ExprSingle(
+                        TermSingle(
+                          FactorNum(
+                           2
+                          ) [FactorNum]
+                        ) [TermSingle]
+                      ) [ExprSingle]
+                    ) [DesignatorMultiExpr]
+                    Assignop(
+                    ) [Assignop]
+                    ExprSingle(
+                      TermSingle(
+                        FactorNum(
+                         4
+                        ) [FactorNum]
+                      ) [TermSingle]
+                    ) [ExprSingle]
+                  ) [DesignatorStatementAopExpr]
+                ) [DesStatement]
+              ) [Statements]
+              DesStatement(
+                DesignatorStatementAopExpr(
+                  DesignatorMultiExpr(
+                    DesignatorSingle(
+                     a
+                    ) [DesignatorSingle]
+                    ExprSingle(
+                      TermSingle(
+                        FactorNum(
+                         3
+                        ) [FactorNum]
+                      ) [TermSingle]
+                    ) [ExprSingle]
+                  ) [DesignatorMultiExpr]
+                  Assignop(
+                  ) [Assignop]
+                  ExprSingle(
+                    TermSingle(
+                      FactorNum(
+                       7
+                      ) [FactorNum]
+                    ) [TermSingle]
+                  ) [ExprSingle]
+                ) [DesignatorStatementAopExpr]
+              ) [DesStatement]
+            ) [Statements]
+            DesStatement(
+              DesignatorStatementAopExpr(
+                DesignatorMultiExpr(
+                  DesignatorSingle(
+                   a
+                  ) [DesignatorSingle]
+                  ExprSingle(
+                    TermSingle(
+                      FactorNum(
+                       4
+                      ) [FactorNum]
+                    ) [TermSingle]
+                  ) [ExprSingle]
+                ) [DesignatorMultiExpr]
+                Assignop(
+                ) [Assignop]
+                ExprSingle(
+                  TermSingle(
+                    FactorNum(
+                     15
+                    ) [FactorNum]
+                  ) [TermSingle]
+                ) [ExprSingle]
+              ) [DesignatorStatementAopExpr]
+            ) [DesStatement]
+          ) [Statements]
+          StatementFindAny(
+            DesignatorSingle(
+             b
+            ) [DesignatorSingle]
+            Assignop(
+            ) [Assignop]
+            DesignatorSingle(
+             a
+            ) [DesignatorSingle]
+            ExprSingleMinus(
+              TermSingle(
+                FactorNum(
+                 3
+                ) [FactorNum]
+              ) [TermSingle]
+            ) [ExprSingleMinus]
+          ) [StatementFindAny]
+        ) [Statements]
+        PrintStatement(
+          ExprSingle(
+            TermSingle(
+              FactorDes(
+                DesignatorSingle(
+                 b
+                ) [DesignatorSingle]
+              ) [FactorDes]
+            ) [TermSingle]
+          ) [ExprSingle]
+        ) [PrintStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  03:40:07,784 - ===================================
+INFO  03:40:07,789 - nadjeno a na liniji 8  Var a: Arr of int, 0, 0 
+INFO  03:40:07,790 - nadjeno a na liniji 9  Var a: Arr of int, 0, 0 
+INFO  03:40:07,790 - nadjeno a na liniji 10  Var a: Arr of int, 0, 0 
+INFO  03:40:07,790 - nadjeno a na liniji 11  Var a: Arr of int, 0, 0 
+INFO  03:40:07,790 - nadjeno a na liniji 12  Var a: Arr of int, 0, 0 
+INFO  03:40:07,790 - nadjeno a na liniji 13  Var a: Arr of int, 0, 0 
+INFO  03:40:07,790 - nadjeno b na liniji 15  Var b: bool, 1, 0 
+INFO  03:40:07,791 - nadjeno a na liniji 15  Var a: Arr of int, 0, 0 
+INFO  03:40:07,791 - nadjeno b na liniji 17  Var b: bool, 1, 0 
+INFO  03:40:07,791 - ===================================
+INFO  03:40:07,800 - Parsiranje uspesno zavrseno

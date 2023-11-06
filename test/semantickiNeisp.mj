@@ -1,0 +1,26 @@
+program test
+	bool c;
+	const int f=5;
+	const bool g=true;
+	const char h='c';
+{
+    void main()int e[]; int a;  int dd[]; int cc[]; {
+       
+        print(f);
+        print(g);
+        print(h);
+        
+        e=new int[3];
+        dd=new int['r'];
+        cc=new int[3];
+        
+    
+        
+        e[2]='g';
+        c=3;
+        a=g;
+        
+        
+    }
+    
+}
