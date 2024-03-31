@@ -5,11 +5,11 @@ Apache Ant needed for running the build.xml file.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 1.	Cilj  
-Cilj projektnog zadatka je realizacija kompajlera za programski jezik Mikrojavu. Kompajler omogućava prevodjenje sintaksno i semantički ispravnih Mikrojava programa u Mikrojava bajtkod koji se izvršava na virtuelnoj mašini za Mikrojavu.   
-Programski prevodilac za Mikrojavu ima četiri osnovne funkcionalnosti: leksičku analizu, sintaksnu analizu, semantičku analizu i generisanje koda.  
+Cilj projektnog zadatka je realizacija kompajlera za programski jezik Mikrojavu. Kompajler omogucava prevodjenje sintaksno i semanticki ispravnih Mikrojava programa u Mikrojava bajtkod koji se izvrsava na virtuelnoj masini za Mikrojavu.   
+Programski prevodilac za Mikrojavu ima cetiri osnovne funkcionalnosti: leksicku analizu, sintaksnu analizu, semanticku analizu i generisanje koda.  
   
 2.	Pokretanje  
-U zeljeni fajl sa ekstenzijom .mj napisati korisnicni MJ kod.  
+U zeljeni fajl sa ekstenzijom .mj napisati korisnicki MJ kod.  
 Pokrenuti test/rs.ac.bg.etf.pp1/Compiler.java (prvi argument koji se navodi je putanja do .mj fajla sa MJ kodom, a drugi argument putanja do izlaznog .obj fajla).  
 Izmeniti build.xml “disasm” i “runObj” delove tako da se navede putanja do .obj fajla koji zelimo da pokrenemo.  
 DKlik na build.xml -> run as -> Ant build -> izabrati samo runObj -> Run  
