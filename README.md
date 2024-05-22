@@ -25,5 +25,10 @@ Klasa CodeGenerator prosiruje klasu VisitorAdaptor; posecuju se cvorovi stabla m
 Klasa CounterVisitor prosiruje VisitorAdaptor I sluzi da izbroji koliko ima promenljivih da bi mogao da se generise entry za f-je(main).  
 Klasa SemanticAnalyzer prosiruje klasu VisitorAdaptor; posecuju se cvorovi stabla metodama visit() u kojima se odradjuje semanticka obrada i dodavanje u tabelu simbola.  
 Klasa TabExt prosiruje klasu Tab i sluzi samo da bi se u tabelu simbola uveo Boolean tip boolType.  
-Klasa Compiler sadrzi main metodu kojom se pokrecu analize MJ koda, ispisuje se rezultat parsiranja u konzolu i generisani kod se upisuje u .obj fajl.  
+Klasa Compiler sadrzi main metodu kojom se pokrecu analize MJ koda, ispisuje se rezultat parsiranja u konzolu i generisani kod se upisuje u .obj fajl.
+  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Developed a compiler for MicroJava, implementing lexical, syntax, and semantic analysis, along with code generation. The compiler processes input programs written in MicroJava (a subset of Java with basic syntax and functionalities), generating MicroJava bytecode that executes on a MicroJava VM
   
